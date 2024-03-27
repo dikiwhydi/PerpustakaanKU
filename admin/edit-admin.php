@@ -216,7 +216,7 @@ if (empty($_SESSION['username'])) {
                 <!-- row end -->
             </section><!-- /.content -->
             <div class="footer-main">
-                Copyright PerpustakaanKU 2021 | Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a>
+                Copyright PerpustakaanKU 2024 | Repost by <a href='https://MasterDiki.com/' title='MasterDiki.com' target='_blank'>MasterDiki.com</a>
             </div>
         </aside><!-- /.right-side -->
 
